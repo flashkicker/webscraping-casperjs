@@ -80,6 +80,8 @@ casper.then(function() {
 //     dates = this.evaluate(getDates)
 // })
 
+// generate table inside casper.run
+// write it to an html file using the fs module
 // casper.run(function() {
 //     var html
 //     html = "<table><tr><td>Date</td><td>Title</td><td>Link</td></tr>"
