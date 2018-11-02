@@ -54,6 +54,12 @@ void function() {
     var featureMap = {
       'function-bind': 'bind'
     };
+    
+    var system = require('system');
+    var argsdeprecated = system.args;
+    argsdeprecated.shift();
+    phantom.args = argsdeprecated;
+
     function has(feature) {
       var prop = featureMap[feature];
       return isFunction(proto[prop]);
@@ -108,19 +114,19 @@ CasperError.prototype = Object.getPrototypeOf(new Error());
         setTimeout(function() { phantom.exit(statusCode); }, 0);
     }
 
-    function __die(message) {
-        if (message) {
-            console.error(message);
-        }
-        __exit(1);
-    }
+    // function __die(message) {
+    //     if (message) {
+    //         console.error(message);
+    //     }
+    //     __exit(1);
+    // }
 
-    function __terminate(message) {
-        if (message) {
-            console.log(message);
-        }
-        __exit();
-    }
+    // function __terminate(message) {
+    //     if (message) {
+    //         console.log(message);
+    //     }
+    //     __exit();
+    // }
 
     (function (version) {
         // required version check
