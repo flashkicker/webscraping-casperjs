@@ -1,12 +1,12 @@
-var casper = require('casper').create({
-    verbose: true,
-    logLevel: 'debug',
-    pageSettings: {
-        loadImages: false,
-        loadPlugins: false,
-        userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4'
-    },
-    clientScripts: ["vendor/jquery.min.js", "vendor/lodash.js"]
+var casper = require("casper").create({
+	verbose: true,
+	logLevel: "debug",
+	pageSettings: {
+		loadImages: false,
+		loadPlugins: false,
+		userAgent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:23.0) Gecko/20130404 Firefox/23.0"			
+	},
+	clientScripts: ["vendor/jquery.min.js", "vendor/lodash.js"]
 })
 
 // need this to write our scraped data to a file
@@ -25,45 +25,31 @@ var dates = []
 // }
 
 // the page has hundreds of links so we use map to gather them all up
-// notice that all the links are found under the div tag with the class campaign
+// notice that all the links are found under a div tag with the class .mb-3
 // and we want the a element inside them
 function getLinks() {
-    var link = $('.campaign a')
+    var link = $('.mb-3 a')
     return _.map(link, function(e) {
-        return e.getAttribute('href')
+        return "http://pycoders.com" + e.getAttribute('href')
     })
 }
 
 // you can either use innerHTML or innerText but since we want to retain the whitespaces (&nbsp) we use innerHTML
 function getTitles() {
-    var title = $('.campaign a')
+    var title = $('.mb-3 a')
     return _.map(title, function(e) {
-        return e.innerHTML
+        var title = e.innerHTML
+        return title.slice(0, title.indexOf('(') - 1)
     })
 }
-
-// we are cutting off everything in our string starting from the title to the end using regex
-// function getTitles() {
-//     var title = $('.campaign a')
-//     return _.map(title, function(e) {
-//         return e.innerHTML.replace(/\:.*$/g, "")
-//     })
-// }
 
 function getDates() {
-    var date = $('.campaign')
+    var date = $('.mb-3 a')
     return _.map(date, function(e) {
-        return e.innerText
+        var date = e.innerHTML
+        return date.slice(date.indexOf('(') + 1, -1)
     })
 }
-
-// use regex to cut off everything after the hyphen so we only get the date
-// function getDates() {
-//     var date = $('.campaign')
-//     return _.map(date, function(e) {
-//         return e.innerText.replace(/\-.*$/g, "")
-//     })
-// }
 
 // once we have our functions set up we can start the script
 casper.start(url)
@@ -93,7 +79,7 @@ casper.then(function() {
 
 casper.run(function() {
     this.echo(links.length + ' links found')
-    this.echo(' - ' + links.join('\n - '))
-    // this.echo(' - ' + titles.join('\n - ')).exit()
+    this.echo(' - ' + links.join('\n - ')).exit()
+    // this.echo(' - ' + titles.join('\n - '))
     // this.echo(' - ' + dates.join('\n - ')).exit()
 })

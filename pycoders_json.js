@@ -4,8 +4,7 @@ var casper = require("casper").create({
 	pageSettings: {
 		loadImages: false,
 		loadPlugins: false,
-		userAgent:
-			"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4"
+		userAgent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:23.0) Gecko/20130404 Firefox/23.0"			
 	},
 	clientScripts: ["vendor/jquery.min.js", "vendor/lodash.js"]
 })
@@ -26,27 +25,30 @@ function outputJSON() {
 			date: dates[i]
 		})
 	}
-	return JSON.stringify(output)
+	return JSON.stringify(output, null, 2)
 }
 
 function getLinks() {
-	var link = $(".campaign a")
-	return _.map(link, function(e) {
-		return e.getAttribute("href")
-	})
+    var link = $('.mb-3 a')
+    return _.map(link, function(e) {
+        return "http://pycoders.com" + e.getAttribute('href')
+    })
 }
 
 function getTitles() {
-	var title = $(".campaign a")
-	return _.map(title, function(e) {
-		return e.innerHTML.replace(/\:.*$/g, "")
-	})
+    var title = $('.mb-3 a')
+    return _.map(title, function(e) {
+        var title = e.innerHTML
+        return title.slice(0, title.indexOf('(') - 1)
+    })
 }
+
 function getDates() {
-	var date = $(".campaign")
-	return _.map(date, function(e) {
-		return e.innerText.replace(/\-.*$/g, "")
-	})
+    var date = $('.mb-3 a')
+    return _.map(date, function(e) {
+        var date = e.innerHTML
+        return date.slice(date.indexOf('(') + 1, -1)
+    })
 }
 
 casper.start(url)

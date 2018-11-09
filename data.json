@@ -1,1002 +1,1707 @@
-[  
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=cdd9968e00",
-        "title":"Pycoders Weekly (Issue #315)",
-        "date":"05/08/2018 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=40ea0f8657",
-        "title":"Pycoders Weekly (Issue #314)",
-        "date":"05/01/2018 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=65044e86ff",
-        "title":"Pycoders Weekly (Issue #313)",
-        "date":"04/24/2018 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=c397cb121f",
-        "title":"Pycoders Weekly (Issue #312)",
-        "date":"04/17/2018 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=e8b890238d",
-        "title":"Pycoders Weekly (Issue #311)",
-        "date":"04/10/2018 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=a1f450223c",
-        "title":"Pycoders Weekly (Issue #310)",
-        "date":"04/03/2018 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=269f98558f",
-        "title":"Pycoders Weekly (Issue #309)",
-        "date":"03/27/2018 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=430c61bfa6",
-        "title":"Pycoders Weekly (Issue #308)",
-        "date":"03/20/2018 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=953428cf63",
-        "title":"Pycoders Weekly (Issue #306)",
-        "date":"03/13/2018 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=aefeefa2bf",
-        "title":"Pycoders Weekly (Issue #305)",
-        "date":"03/06/2018 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=c09d565ee0",
-        "title":"Pycoders Weekly (Issue #304)",
-        "date":"02/27/2018 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=6ced356318",
-        "title":"Pycoders Weekly (Issue #303)",
-        "date":"02/20/2018 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=80541e5fe8",
-        "title":"Pycoders Weekly (Issue #302)",
-        "date":"02/13/2018 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=56c392a37f",
-        "title":"Pycoders Weekly (Issue #301)",
-        "date":"02/06/2018 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=982cdbfafb",
-        "title":"Pycoders Weekly (Issue #299)",
-        "date":"01/23/2018 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=175cf33fe5",
-        "title":"Pycoders Weekly (Issue #298)",
-        "date":"01/16/2018 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=17670040c7",
-        "title":"Pycoders Weekly (Issue #294)",
-        "date":"11/28/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=37243cf25c",
-        "title":"Pycoders Weekly (Issue #293)",
-        "date":"11/21/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=748cc57ea2",
-        "title":"Pycoders Weekly (Issue #292)",
-        "date":"11/14/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=4955de59e8",
-        "title":"Pycoders Weekly (Issue #291)",
-        "date":"11/07/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=96a457470b",
-        "title":"Pycoders Weekly (Issue #290)",
-        "date":"10/31/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=ae4183ab96",
-        "title":"Pycoders Weekly (Issue #289)",
-        "date":"10/24/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=77605d403e",
-        "title":"Pycoders Weekly (Issue #288)",
-        "date":"10/17/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=b860bba197",
-        "title":"Pycoders Weekly (Issue #287)",
-        "date":"10/10/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=d68e652684",
-        "title":"Pycoders Weekly (Issue #286)",
-        "date":"10/03/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=6502305364",
-        "title":"Pycoders Weekly (Issue #285)",
-        "date":"09/26/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=92a68e7eb2",
-        "title":"Pycoders Weekly (Issue #284)",
-        "date":"09/19/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=8a433190a8",
-        "title":"Pycoders Weekly (Issue #283)",
-        "date":"09/12/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=d1593ddb1e",
-        "title":"Pycoders Weekly (Issue #282)",
-        "date":"09/05/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=e87634c450",
-        "title":"Pycoders Weekly (Issue #281)",
-        "date":"08/29/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=259e192f24",
-        "title":"Pycoders Weekly (Issue #280)",
-        "date":"08/22/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=1ac9f1ae8b",
-        "title":"Pycoders Weekly (Issue #279)",
-        "date":"08/15/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=3004e0abcb",
-        "title":"Pycoders Weekly (Issue #278)",
-        "date":"08/08/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=969ab6a2ed",
-        "title":"Pycoders Weekly (Issue #277)",
-        "date":"08/01/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=953ce8ec3e",
-        "title":"Pycoders Weekly (Issue #276)",
-        "date":"07/25/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=765d04feb5",
-        "title":"Pycoders Weekly (Issue #275)",
-        "date":"07/18/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=6cf1195615",
-        "title":"Pycoders Weekly (Issue #274)",
-        "date":"07/11/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=6022612f8b",
-        "title":"Pycoders Weekly (Issue #273)",
-        "date":"07/04/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=92d574974f",
-        "title":"Pycoders Weekly (Issue #272)",
-        "date":"06/27/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=4642eff37a",
-        "title":"Pycoders Weekly (Issue #271)",
-        "date":"06/15/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=5464b47967",
-        "title":"Pycoders Weekly (Issue #270)",
-        "date":"06/08/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=94f2931a6c",
-        "title":"Pycoders Weekly (Issue #269)",
-        "date":"06/01/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=f203eb15cf",
-        "title":"Pycoders Weekly (Issue #265)",
-        "date":"05/04/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=bb793fb200",
-        "title":"Pycoders Weekly (Issue #264)",
-        "date":"04/27/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=99f7f43e06",
-        "title":"Pycoders Weekly (Issue #263)",
-        "date":"04/20/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=7596c9d73a",
-        "title":"Pycoders Weekly (Issue #262)",
-        "date":"04/13/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=85fc237433",
-        "title":"Pycoders Weekly (Issue #261)",
-        "date":"04/06/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=4ad15dbd6a",
-        "title":"Pycoders Weekly (Issue #260)",
-        "date":"03/30/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=62805321c8",
-        "title":"Pycoders Weekly (Issue #259)",
-        "date":"03/23/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=e61e306040",
-        "title":"Pycoders Weekly (Issue #257)",
-        "date":"03/09/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=90fd0654b1",
-        "title":"Pycoders Weekly (Issue #256)",
-        "date":"03/02/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=f0ec67ef76",
-        "title":"Pycoders Weekly (Issue #255)",
-        "date":"02/23/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=32fe872169",
-        "title":"Pycoders Weekly (Issue #254)",
-        "date":"02/16/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=db760c54cb",
-        "title":"Pycoders Weekly (Issue #253)",
-        "date":"02/09/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=07723115d0",
-        "title":"Pycoders Weekly (Issue #252)",
-        "date":"02/02/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=ddee8d1479",
-        "title":"Pycoders Weekly (Issue #251)",
-        "date":"01/26/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=3ca35b21b2",
-        "title":"Pycoders Weekly (Issue #250)",
-        "date":"01/19/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=626db6c90c",
-        "title":"Pycoders Weekly (Issue #249)",
-        "date":"01/13/2017 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=83181648d6",
-        "title":"Pycoders Weekly (Issue #248)",
-        "date":"12/22/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=4018ed7312",
-        "title":"Pycoders Weekly (Issue #247)",
-        "date":"12/15/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=18f013f645",
-        "title":"Pycoders Weekly (Issue #246)",
-        "date":"12/08/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=11db73cdfc",
-        "title":"Pycoders Weekly (Issue #245)",
-        "date":"12/01/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=27ceaeebdd",
-        "title":"Pycoders Weekly (Issue #244)",
-        "date":"11/24/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=6c20a9b8cb",
-        "title":"Pycoders Weekly (Issue #243)",
-        "date":"11/18/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=be08ffe4c8",
-        "title":"Pycoders Weekly (Issue #242)",
-        "date":"11/10/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=49dd6997f6",
-        "title":"Pycoders Weekly (Issue #241)",
-        "date":"11/03/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=440bd94d00",
-        "title":"Pycoders Weekly (Issue #240)",
-        "date":"10/27/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=c9db2f88c4",
-        "title":"Pycoders Weekly (Issue #239)",
-        "date":"10/20/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=76363da651",
-        "title":"Pycoders Weekly (Issue #238)",
-        "date":"10/13/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=0f792acd6e",
-        "title":"Pycoders Weekly (Issue #237)",
-        "date":"10/06/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=510569d007",
-        "title":"Pycoders Weekly (Issue #236)",
-        "date":"09/29/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=c2666fadd4",
-        "title":"Pycoders Weekly (Issue #235)",
-        "date":"09/22/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=99e315fb56",
-        "title":"Pycoders Weekly (Issue #234)",
-        "date":"09/15/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=f5a1734533",
-        "title":"Pycoders Weekly (Issue #233)",
-        "date":"09/08/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=50b9d04e0e",
-        "title":"Pycoders Weekly (Issue #232)",
-        "date":"09/01/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=e5108daa45",
-        "title":"Pycoders Weekly (Issue #231)",
-        "date":"08/25/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=d6dd39de34",
-        "title":"Pycoders Weekly (Issue #230)",
-        "date":"08/19/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=eece9d1d0d",
-        "title":"Pycoders Weekly (Issue #229)",
-        "date":"08/11/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=c44ae87c68",
-        "title":"Pycoders Weekly (Issue #228)",
-        "date":"08/04/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=29dedf8891",
-        "title":"Pycoders Weekly (Issue #227)",
-        "date":"07/28/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=77cd767475",
-        "title":"Pycoders Weekly (Issue #226)",
-        "date":"07/21/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=1b1e4a9ce3",
-        "title":"Pycoders Weekly (Issue #225)",
-        "date":"07/14/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=aa8501a569",
-        "title":"Pycoders Weekly (Issue #224)",
-        "date":"07/07/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=df39889f91",
-        "title":"Pycoders Weekly (Issue #223)",
-        "date":"06/30/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=e46bd02e4f",
-        "title":"Pycoders Weekly (Issue #222)",
-        "date":"06/24/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=1d4b263655",
-        "title":"Pycoders Weekly (Issue #221)",
-        "date":"06/17/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=d789570139",
-        "title":"Pycoders Weekly (Issue #220)",
-        "date":"06/10/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=140d71da1a",
-        "title":"Pycoders Weekly (Issue #219)",
-        "date":"06/03/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=fb81122847",
-        "title":"Pycoders Weekly (Issue #218)",
-        "date":"05/27/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=80859d91a4",
-        "title":"Pycoders Weekly (Issue #217)",
-        "date":"05/20/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=b59d16a393",
-        "title":"Pycoders Weekly (Issue #216)",
-        "date":"05/13/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=c97491e1a8",
-        "title":"Pycoders Weekly (Issue #215)",
-        "date":"05/06/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=5d0dad4d24",
-        "title":"Pycoders Weekly (Issue #214)",
-        "date":"04/29/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=fc056b44db",
-        "title":"Pycoders Weekly (Issue #213)",
-        "date":"04/22/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=8867c46279",
-        "title":"Pycoders Weekly (Issue #212)",
-        "date":"04/16/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=12530992af",
-        "title":"Pycoders Weekly (Issue #211)",
-        "date":"04/08/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=3832782ac4",
-        "title":"Pycoders Weekly (Issue #210)",
-        "date":"04/01/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=9d01609c22",
-        "title":"Pycoders Weekly (Issue #209)",
-        "date":"03/25/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=3384ab2140",
-        "title":"Pycoders Weekly (Issue #208)",
-        "date":"03/18/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=2b6ec675d3",
-        "title":"Pycoders Weekly (Issue #207)",
-        "date":"03/11/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=14e265baf0",
-        "title":"Pycoders Weekly (Issue #206)",
-        "date":"03/04/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=aaa70e6cd8",
-        "title":"Pycoders Weekly (Issue #205)",
-        "date":"02/26/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=b2831f4813",
-        "title":"Pycoders Weekly (Issue #204)",
-        "date":"02/19/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=b840145b68",
-        "title":"Pycoders Weekly (Issue #203)",
-        "date":"02/12/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=53e077220d",
-        "title":"Pycoders Weekly (Issue #202)",
-        "date":"02/05/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=29180abb3b",
-        "title":"Pycoders Weekly (Issue #201)",
-        "date":"01/29/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=12da694704",
-        "title":"Pycoders Weekly (Issue #200)",
-        "date":"01/22/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=42228c78eb",
-        "title":"Pycoders Weekly (Issue #199)",
-        "date":"01/15/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=22fde1c28d",
-        "title":"Pycoders Weekly - Top Articles and Projects of 2015",
-        "date":"01/08/2016 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=f88ad43551",
-        "title":"Pycoders Weekly (Issue #197)",
-        "date":"12/18/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=247cb9ae65",
-        "title":"Pycoders Weekly (Issue #196)",
-        "date":"12/11/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=06f1263282",
-        "title":"Pycoders Weekly (Issue #195)",
-        "date":"12/04/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=26e56ce092",
-        "title":"Pycoders Weekly (Issue #194)",
-        "date":"11/27/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=45df5eb193",
-        "title":"Pycoders Weekly (Issue #193)",
-        "date":"11/20/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=e590684bd0",
-        "title":"Pycoders Weekly (Issue #192)",
-        "date":"11/13/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=ff31369adf",
-        "title":"Pycoders Weekly (Issue #191)",
-        "date":"11/06/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=f23921e094",
-        "title":"Pycoders Weekly (Issue #190)",
-        "date":"10/30/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=d2ac036e97",
-        "title":"Pycoders Weekly (Issue #189)",
-        "date":"10/23/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=fd953514fa",
-        "title":"Pycoders Weekly (Issue #188)",
-        "date":"10/16/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=d1f2d645df",
-        "title":"Pycoders Weekly (Issue #186)",
-        "date":"10/09/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=6e4a6bafcd",
-        "title":"Pycoders Weekly (Issue #185)",
-        "date":"10/02/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=a07cf21a93",
-        "title":"Pycoders Weekly (Issue #185)",
-        "date":"09/25/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=02385c8874",
-        "title":"Pycoders Weekly (Issue #184)",
-        "date":"09/18/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=e1b6ee0db9",
-        "title":"Pycoders Weekly (Issue #183)",
-        "date":"09/11/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=1099ac3094",
-        "title":"Pycoders Weekly (Issue #182)",
-        "date":"09/04/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=d0ee2a6163",
-        "title":"Pycoders Weekly (Issue #181)",
-        "date":"08/28/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=e109bc9dff",
-        "title":"Pycoders Weekly (Issue #180)",
-        "date":"08/21/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=27f29bd18c",
-        "title":"Pycoders Weekly (Issue #179)",
-        "date":"08/14/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=11857fb621",
-        "title":"Pycoders Weekly (Issue #178)",
-        "date":"08/07/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=d06430eb4f",
-        "title":"Pycoders Weekly (Issue #177)",
-        "date":"07/31/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=339bb6cb74",
-        "title":"Pycoders Weekly (Issue #176)",
-        "date":"07/24/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=c6b2ebae4e",
-        "title":"Pycoders Weekly (Issue #175)",
-        "date":"07/17/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=015aa433f9",
-        "title":"Pycoders Weekly (Issue #174)",
-        "date":"07/10/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=a66fd06602",
-        "title":"Pycoders Weekly (Issue #173)",
-        "date":"07/03/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=f070a2791c",
-        "title":"Pycoders Weekly (Issue #172)",
-        "date":"06/26/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=dbc3fc6066",
-        "title":"Pycoders Weekly (Issue #171)",
-        "date":"06/19/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=0de5a85498",
-        "title":"Pycoders Weekly (Issue #170)",
-        "date":"06/12/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=a0c695a7f6",
-        "title":"Pycoders Weekly (Issue #169)",
-        "date":"06/05/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=3269eb9cac",
-        "title":"Pycoders Weekly (Issue #168)",
-        "date":"05/29/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=4bce55b0f6",
-        "title":"Pycoders Weekly (Issue #167)",
-        "date":"05/22/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=ee6e1b1b45",
-        "title":"Pycoders Weekly (Issue #166)",
-        "date":"05/15/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=e1b0ffb713",
-        "title":"Pycoders Weekly (Issue #165)",
-        "date":"05/08/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=14ac0e8c11",
-        "title":"Pycoders Weekly (Issue #164)",
-        "date":"05/01/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=b7fdecf11e",
-        "title":"Pycoders Weekly (Issue #163)",
-        "date":"04/24/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=50a00cbf9b",
-        "title":"Pycoders Weekly (Issue #162)",
-        "date":"04/17/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=8f8d4bc674",
-        "title":"Pycoder's Weekly (Issue #161)",
-        "date":"04/10/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=569ab9cab6",
-        "title":"Pycoders Weekly (Issue #160)",
-        "date":"04/03/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=412ff5bb92",
-        "title":"Pycoder's Weekly (Issue #159)",
-        "date":"03/27/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=342d2cd3c5",
-        "title":"Pycoder's Weekly (Issue #158)",
-        "date":"03/20/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=cf56544e52",
-        "title":"Pycoder's Weekly (Issue #157)",
-        "date":"03/13/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=ba51070031",
-        "title":"Pycoder's Weekly (Issue #156)",
-        "date":"03/06/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=2776ce7284",
-        "title":"Pycoder's Weekly (Issue #155)",
-        "date":"02/27/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=7c693ce676",
-        "title":"Pycoder's Weekly (Issue #154)",
-        "date":"02/20/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=4ffbd2b813",
-        "title":"Pycoder's Weekly (Issue #153)",
-        "date":"02/13/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=13785051a9",
-        "title":"Pycoder's Weekly (Issue #152)",
-        "date":"02/06/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=686dc9891c",
-        "title":"Pycoder's Weekly (Issue #151)",
-        "date":"01/30/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=353147b5f3",
-        "title":"Pycoder's Weekly (Issue #150)",
-        "date":"01/23/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=68e052a6f7",
-        "title":"Pycoder's Weekly (Issue #149)",
-        "date":"01/16/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=f065557c20",
-        "title":"Pycoder's Weekly (Issue #148)",
-        "date":"01/09/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=55b91a6e1f",
-        "title":"Pycoder's Weekly",
-        "date":"01/05/2015 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=d973d8a93e",
-        "title":"Pycoder's Weekly (Issue #146)",
-        "date":"12/19/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=07a5f186be",
-        "title":"Pycoder's Weekly (Issue #145)",
-        "date":"12/12/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=7489f8ef97",
-        "title":"Pycoder's Weekly (Issue #144)",
-        "date":"12/05/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=7abd581d10",
-        "title":"Pycoder's Weekly (Issue #143)",
-        "date":"11/28/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=ab497700bb",
-        "title":"Pycoder's Weekly (Issue #142)",
-        "date":"11/21/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=277fbe35eb",
-        "title":"Pycoder's Weekly (Issue #141)",
-        "date":"11/14/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=a089b06ae4",
-        "title":"Pycoder's Weekly (Issue #140)",
-        "date":"11/07/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=13527cc3dd",
-        "title":"Pycoder's Weekly (Issue #139)",
-        "date":"10/31/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=e133864a0a",
-        "title":"Pycoder's Weekly (Issue #138)",
-        "date":"10/24/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=6196c9ed66",
-        "title":"Pycoder's Weekly (Issue #137)",
-        "date":"10/17/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=6bfdfe321c",
-        "title":"Pycoder's Weekly (Issue #136)",
-        "date":"10/10/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=7f7e420fd4",
-        "title":"Pycoder's Weekly (Issue #135)",
-        "date":"10/03/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=39ea43de4e",
-        "title":"Pycoder's Weekly (Issue #134)",
-        "date":"09/26/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=50d930f03d",
-        "title":"Pycoder's Weekly (Issue #133)",
-        "date":"09/19/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=b7763d4295",
-        "title":"Pycoder's Weekly (Issue #132)",
-        "date":"09/12/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=c22fb2520f",
-        "title":"Pycoder's Weekly (Issue #131)",
-        "date":"09/05/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=f9dc89f994",
-        "title":"Pycoder's Weekly (Issue #130)",
-        "date":"08/29/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=90fa4ff04a",
-        "title":"Pycoder's Weekly (Issue #129)",
-        "date":"08/22/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=339ce67508",
-        "title":"Pycoder's Weekly (Issue #128)",
-        "date":"08/15/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=ccef199858",
-        "title":"Pycoder's Weekly (Issue #127)",
-        "date":"08/08/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=79b5bd93f3",
-        "title":"Pycoder's Weekly (Issue #126)",
-        "date":"08/01/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=d64a421bc8",
-        "title":"Pycoder's Weekly (Issue #125)",
-        "date":"07/25/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=32ec9dffdb",
-        "title":"Pycoder's Weekly (Issue #124)",
-        "date":"07/18/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=672533d736",
-        "title":"Pycoder's Weekly (Issue #123)",
-        "date":"07/11/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=f87f23b335",
-        "title":"Pycoder's Weekly (Issue #122)",
-        "date":"07/04/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=5f3bbf9f0d",
-        "title":"Pycoder's Weekly (Issue #121)",
-        "date":"06/27/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=2aab93be25",
-        "title":"Pycoder's Weekly (Issue #120)",
-        "date":"06/20/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=6297b73609",
-        "title":"Pycoder's Weekly (Issue #119)",
-        "date":"06/13/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=cb904ae2f0",
-        "title":"Pycoder's Weekly (Issue #118)",
-        "date":"06/06/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=1be31a84b1",
-        "title":"Pycoder's Weekly (Issue #117)",
-        "date":"05/30/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=4d420c9088",
-        "title":"Pycoder's Weekly (Issue #116)",
-        "date":"05/23/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=5b776f71be",
-        "title":"Pycoder's Weekly (Issue #115)",
-        "date":"05/16/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=4edf1b15d9",
-        "title":"Pycoder's Weekly (Issue #114)",
-        "date":"05/09/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=df602b4d07",
-        "title":"Pycoder's Weekly (Issue #113)",
-        "date":"05/02/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=214eac5719",
-        "title":"Pycoder's Weekly (Issue #112)",
-        "date":"04/25/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=60bf5a649b",
-        "title":"Pycoder's Weekly (Issue #111)",
-        "date":"04/18/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=b83a2fd921",
-        "title":"Pycoder's Weekly (Issue #110)",
-        "date":"04/11/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=30f21464b5",
-        "title":"Pycoder's Weekly (Issue #109)",
-        "date":"04/04/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=11689eb138",
-        "title":"Pycoder's Weekly (Issue #108)",
-        "date":"03/28/2014 "
-    },
-    {  
-        "link":"http://us4.campaign-archive.com/?u=9735795484d2e4c204da82a29&id=a0bed7cb10",
-        "title":"Pycoder's Weekly (Issue #107)",
-        "date":"03/21/2014 "
-    }
+[
+  {
+    "link": "http://pycoders.com/issues/341",
+    "title": "Issue #341",
+    "date": "Nov. 6, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/340",
+    "title": "Issue #340",
+    "date": "Oct. 30, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/339",
+    "title": "Issue #339",
+    "date": "Oct. 23, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/338",
+    "title": "Issue #338",
+    "date": "Oct. 16, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/337",
+    "title": "Issue #337",
+    "date": "Oct. 9, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/336",
+    "title": "Issue #336",
+    "date": "Oct. 2, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/335",
+    "title": "Issue #335",
+    "date": "Sept. 25, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/334",
+    "title": "Issue #334",
+    "date": "Sept. 18, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/333",
+    "title": "Issue #333",
+    "date": "Sept. 11, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/332",
+    "title": "Issue #332",
+    "date": "Sept. 4, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/331",
+    "title": "Issue #331",
+    "date": "Aug. 28, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/330",
+    "title": "Issue #330",
+    "date": "Aug. 21, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/329",
+    "title": "Issue #329",
+    "date": "Aug. 14, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/328",
+    "title": "Issue #328",
+    "date": "Aug. 7, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/327",
+    "title": "Issue #327",
+    "date": "July 31, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/326",
+    "title": "Issue #326",
+    "date": "July 24, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/325",
+    "title": "Issue #325",
+    "date": "July 18, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/324",
+    "title": "Issue #324",
+    "date": "July 12, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/323",
+    "title": "Issue #323",
+    "date": "July 5, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/322",
+    "title": "Issue #322",
+    "date": "June 27, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/321",
+    "title": "Issue #321",
+    "date": "June 20, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/320",
+    "title": "Issue #320",
+    "date": "June 12, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/319",
+    "title": "Issue #319",
+    "date": "June 6, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/318",
+    "title": "Issue #318",
+    "date": "May 30, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/317",
+    "title": "Issue #317",
+    "date": "May 22, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/316",
+    "title": "Issue #316",
+    "date": "May 15, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/315",
+    "title": "Issue #315",
+    "date": "May 8, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/314",
+    "title": "Issue #314",
+    "date": "May 1, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/313",
+    "title": "Issue #313",
+    "date": "April 24, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/312",
+    "title": "Issue #312",
+    "date": "April 17, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/311",
+    "title": "Issue #311",
+    "date": "April 10, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/310",
+    "title": "Issue #310",
+    "date": "April 3, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/309",
+    "title": "Issue #309",
+    "date": "March 27, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/308",
+    "title": "Issue #308",
+    "date": "March 20, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/307",
+    "title": "Issue #307",
+    "date": "March 20, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/306",
+    "title": "Issue #306",
+    "date": "March 13, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/305",
+    "title": "Issue #305",
+    "date": "March 6, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/304",
+    "title": "Issue #304",
+    "date": "Feb. 27, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/303",
+    "title": "Issue #303",
+    "date": "Feb. 20, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/302",
+    "title": "Issue #302",
+    "date": "Feb. 13, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/301",
+    "title": "Issue #301",
+    "date": "Feb. 6, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/300",
+    "title": "Issue #300",
+    "date": "Jan. 30, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/299",
+    "title": "Issue #299",
+    "date": "Jan. 23, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/298",
+    "title": "Issue #298",
+    "date": "Jan. 16, 2018"
+  },
+  {
+    "link": "http://pycoders.com/issues/297",
+    "title": "Issue #297",
+    "date": "Dec. 19, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/296",
+    "title": "Issue #296",
+    "date": "Dec. 12, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/295",
+    "title": "Issue #295",
+    "date": "Dec. 5, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/294",
+    "title": "Issue #294",
+    "date": "Nov. 28, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/293",
+    "title": "Issue #293",
+    "date": "Nov. 21, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/292",
+    "title": "Issue #292",
+    "date": "Nov. 14, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/291",
+    "title": "Issue #291",
+    "date": "Nov. 7, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/290",
+    "title": "Issue #290",
+    "date": "Oct. 31, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/289",
+    "title": "Issue #289",
+    "date": "Oct. 24, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/288",
+    "title": "Issue #288",
+    "date": "Oct. 17, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/287",
+    "title": "Issue #287",
+    "date": "Oct. 10, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/286",
+    "title": "Issue #286",
+    "date": "Oct. 3, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/285",
+    "title": "Issue #285",
+    "date": "Sept. 26, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/284",
+    "title": "Issue #284",
+    "date": "Sept. 19, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/283",
+    "title": "Issue #283",
+    "date": "Sept. 12, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/282",
+    "title": "Issue #282",
+    "date": "Sept. 5, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/281",
+    "title": "Issue #281",
+    "date": "Aug. 29, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/280",
+    "title": "Issue #280",
+    "date": "Aug. 22, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/279",
+    "title": "Issue #279",
+    "date": "Aug. 15, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/278",
+    "title": "Issue #278",
+    "date": "Aug. 8, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/277",
+    "title": "Issue #277",
+    "date": "Aug. 1, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/276",
+    "title": "Issue #276",
+    "date": "July 25, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/275",
+    "title": "Issue #275",
+    "date": "July 18, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/274",
+    "title": "Issue #274",
+    "date": "July 11, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/273",
+    "title": "Issue #273",
+    "date": "July 4, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/272",
+    "title": "Issue #272",
+    "date": "June 27, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/271",
+    "title": "Issue #271",
+    "date": "June 15, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/270",
+    "title": "Issue #270",
+    "date": "June 8, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/269",
+    "title": "Issue #269",
+    "date": "June 1, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/268",
+    "title": "Issue #268",
+    "date": "May 26, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/267",
+    "title": "Issue #267",
+    "date": "May 18, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/266",
+    "title": "Issue #266",
+    "date": "May 11, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/265",
+    "title": "Issue #265",
+    "date": "May 4, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/264",
+    "title": "Issue #264",
+    "date": "April 27, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/263",
+    "title": "Issue #263",
+    "date": "April 20, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/262",
+    "title": "Issue #262",
+    "date": "April 13, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/261",
+    "title": "Issue #261",
+    "date": "April 6, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/260",
+    "title": "Issue #260",
+    "date": "March 30, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/259",
+    "title": "Issue #259",
+    "date": "March 23, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/258",
+    "title": "Issue #258",
+    "date": "March 16, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/257",
+    "title": "Issue #257",
+    "date": "March 9, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/256",
+    "title": "Issue #256",
+    "date": "March 2, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/255",
+    "title": "Issue #255",
+    "date": "Feb. 23, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/254",
+    "title": "Issue #254",
+    "date": "Feb. 16, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/253",
+    "title": "Issue #253",
+    "date": "Feb. 9, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/252",
+    "title": "Issue #252",
+    "date": "Feb. 2, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/251",
+    "title": "Issue #251",
+    "date": "Jan. 26, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/250",
+    "title": "Issue #250",
+    "date": "Jan. 19, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/249",
+    "title": "Issue #249",
+    "date": "Jan. 13, 2017"
+  },
+  {
+    "link": "http://pycoders.com/issues/248",
+    "title": "Issue #248",
+    "date": "Dec. 22, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/247",
+    "title": "Issue #247",
+    "date": "Dec. 15, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/246",
+    "title": "Issue #246",
+    "date": "Dec. 8, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/245",
+    "title": "Issue #245",
+    "date": "Dec. 1, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/244",
+    "title": "Issue #244",
+    "date": "Nov. 24, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/243",
+    "title": "Issue #243",
+    "date": "Nov. 18, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/242",
+    "title": "Issue #242",
+    "date": "Nov. 10, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/241",
+    "title": "Issue #241",
+    "date": "Nov. 3, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/240",
+    "title": "Issue #240",
+    "date": "Oct. 27, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/239",
+    "title": "Issue #239",
+    "date": "Oct. 20, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/238",
+    "title": "Issue #238",
+    "date": "Oct. 13, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/237",
+    "title": "Issue #237",
+    "date": "Oct. 6, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/236",
+    "title": "Issue #236",
+    "date": "Sept. 29, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/235",
+    "title": "Issue #235",
+    "date": "Sept. 22, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/234",
+    "title": "Issue #234",
+    "date": "Sept. 15, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/233",
+    "title": "Issue #233",
+    "date": "Sept. 8, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/232",
+    "title": "Issue #232",
+    "date": "Sept. 1, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/231",
+    "title": "Issue #231",
+    "date": "Aug. 25, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/230",
+    "title": "Issue #230",
+    "date": "Aug. 19, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/229",
+    "title": "Issue #229",
+    "date": "Aug. 11, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/228",
+    "title": "Issue #228",
+    "date": "Aug. 4, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/227",
+    "title": "Issue #227",
+    "date": "July 28, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/226",
+    "title": "Issue #226",
+    "date": "July 21, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/225",
+    "title": "Issue #225",
+    "date": "July 14, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/224",
+    "title": "Issue #224",
+    "date": "July 7, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/223",
+    "title": "Issue #223",
+    "date": "June 30, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/222",
+    "title": "Issue #222",
+    "date": "June 24, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/221",
+    "title": "Issue #221",
+    "date": "June 17, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/220",
+    "title": "Issue #220",
+    "date": "June 10, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/219",
+    "title": "Issue #219",
+    "date": "June 3, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/218",
+    "title": "Issue #218",
+    "date": "May 27, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/217",
+    "title": "Issue #217",
+    "date": "May 20, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/216",
+    "title": "Issue #216",
+    "date": "May 13, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/215",
+    "title": "Issue #215",
+    "date": "May 6, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/214",
+    "title": "Issue #214",
+    "date": "April 29, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/213",
+    "title": "Issue #213",
+    "date": "April 22, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/212",
+    "title": "Issue #212",
+    "date": "April 16, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/211",
+    "title": "Issue #211",
+    "date": "April 8, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/210",
+    "title": "Issue #210",
+    "date": "April 1, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/209",
+    "title": "Issue #209",
+    "date": "March 25, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/208",
+    "title": "Issue #208",
+    "date": "March 18, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/207",
+    "title": "Issue #207",
+    "date": "March 11, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/206",
+    "title": "Issue #206",
+    "date": "March 4, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/205",
+    "title": "Issue #205",
+    "date": "Feb. 26, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/204",
+    "title": "Issue #204",
+    "date": "Feb. 19, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/203",
+    "title": "Issue #203",
+    "date": "Feb. 12, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/202",
+    "title": "Issue #202",
+    "date": "Feb. 5, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/201",
+    "title": "Issue #201",
+    "date": "Jan. 29, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/200",
+    "title": "Issue #200",
+    "date": "Jan. 22, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/199",
+    "title": "Issue #199",
+    "date": "Jan. 15, 2016"
+  },
+  {
+    "link": "http://pycoders.com/issues/198",
+    "title": "Issue #198",
+    "date": "Dec. 18, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/197",
+    "title": "Issue #197",
+    "date": "Dec. 18, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/196",
+    "title": "Issue #196",
+    "date": "Dec. 11, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/195",
+    "title": "Issue #195",
+    "date": "Dec. 4, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/194",
+    "title": "Issue #194",
+    "date": "Nov. 27, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/193",
+    "title": "Issue #193",
+    "date": "Nov. 20, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/192",
+    "title": "Issue #192",
+    "date": "Nov. 13, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/191",
+    "title": "Issue #191",
+    "date": "Nov. 6, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/190",
+    "title": "Issue #190",
+    "date": "Oct. 30, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/189",
+    "title": "Issue #189",
+    "date": "Oct. 23, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/188",
+    "title": "Issue #188",
+    "date": "Oct. 16, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/187",
+    "title": "Issue #187",
+    "date": "Oct. 9, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/186",
+    "title": "Issue #186",
+    "date": "Oct. 2, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/185",
+    "title": "Issue #185",
+    "date": "Sept. 25, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/184",
+    "title": "Issue #184",
+    "date": "Sept. 18, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/183",
+    "title": "Issue #183",
+    "date": "Sept. 11, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/182",
+    "title": "Issue #182",
+    "date": "Sept. 4, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/181",
+    "title": "Issue #181",
+    "date": "Aug. 28, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/180",
+    "title": "Issue #180",
+    "date": "Aug. 21, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/179",
+    "title": "Issue #179",
+    "date": "Aug. 14, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/178",
+    "title": "Issue #178",
+    "date": "Aug. 7, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/177",
+    "title": "Issue #177",
+    "date": "July 31, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/176",
+    "title": "Issue #176",
+    "date": "July 24, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/175",
+    "title": "Issue #175",
+    "date": "July 17, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/174",
+    "title": "Issue #174",
+    "date": "July 10, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/173",
+    "title": "Issue #173",
+    "date": "July 3, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/172",
+    "title": "Issue #172",
+    "date": "June 26, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/171",
+    "title": "Issue #171",
+    "date": "June 19, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/170",
+    "title": "Issue #170",
+    "date": "June 12, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/169",
+    "title": "Issue #169",
+    "date": "June 5, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/168",
+    "title": "Issue #168",
+    "date": "May 29, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/167",
+    "title": "Issue #167",
+    "date": "May 22, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/166",
+    "title": "Issue #166",
+    "date": "May 15, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/165",
+    "title": "Issue #165",
+    "date": "May 8, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/164",
+    "title": "Issue #164",
+    "date": "May 1, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/163",
+    "title": "Issue #163",
+    "date": "April 24, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/162",
+    "title": "Issue #162",
+    "date": "April 17, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/161",
+    "title": "Issue #161",
+    "date": "April 10, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/160",
+    "title": "Issue #160",
+    "date": "April 3, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/159",
+    "title": "Issue #159",
+    "date": "March 27, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/158",
+    "title": "Issue #158",
+    "date": "March 20, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/157",
+    "title": "Issue #157",
+    "date": "March 13, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/156",
+    "title": "Issue #156",
+    "date": "March 6, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/155",
+    "title": "Issue #155",
+    "date": "Feb. 27, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/154",
+    "title": "Issue #154",
+    "date": "Feb. 20, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/153",
+    "title": "Issue #153",
+    "date": "Feb. 13, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/152",
+    "title": "Issue #152",
+    "date": "Feb. 6, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/151",
+    "title": "Issue #151",
+    "date": "Jan. 30, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/150",
+    "title": "Issue #150",
+    "date": "Jan. 23, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/149",
+    "title": "Issue #149",
+    "date": "Jan. 16, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/148",
+    "title": "Issue #148",
+    "date": "Jan. 9, 2015"
+  },
+  {
+    "link": "http://pycoders.com/issues/147",
+    "title": "Issue #147",
+    "date": "Dec. 19, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/146",
+    "title": "Issue #146",
+    "date": "Dec. 19, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/145",
+    "title": "Issue #145",
+    "date": "Dec. 12, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/144",
+    "title": "Issue #144",
+    "date": "Dec. 5, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/143",
+    "title": "Issue #143",
+    "date": "Nov. 28, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/142",
+    "title": "Issue #142",
+    "date": "Nov. 21, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/141",
+    "title": "Issue #141",
+    "date": "Nov. 14, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/140",
+    "title": "Issue #140",
+    "date": "Nov. 7, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/139",
+    "title": "Issue #139",
+    "date": "Oct. 31, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/138",
+    "title": "Issue #138",
+    "date": "Oct. 24, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/137",
+    "title": "Issue #137",
+    "date": "Oct. 17, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/136",
+    "title": "Issue #136",
+    "date": "Oct. 10, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/135",
+    "title": "Issue #135",
+    "date": "Oct. 3, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/134",
+    "title": "Issue #134",
+    "date": "Sept. 26, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/133",
+    "title": "Issue #133",
+    "date": "Sept. 19, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/132",
+    "title": "Issue #132",
+    "date": "Sept. 12, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/131",
+    "title": "Issue #131",
+    "date": "Sept. 5, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/130",
+    "title": "Issue #130",
+    "date": "Aug. 29, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/129",
+    "title": "Issue #129",
+    "date": "Aug. 22, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/128",
+    "title": "Issue #128",
+    "date": "Aug. 15, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/127",
+    "title": "Issue #127",
+    "date": "Aug. 8, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/126",
+    "title": "Issue #126",
+    "date": "Aug. 1, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/125",
+    "title": "Issue #125",
+    "date": "July 25, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/124",
+    "title": "Issue #124",
+    "date": "July 18, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/123",
+    "title": "Issue #123",
+    "date": "July 11, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/122",
+    "title": "Issue #122",
+    "date": "July 4, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/121",
+    "title": "Issue #121",
+    "date": "June 27, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/120",
+    "title": "Issue #120",
+    "date": "June 20, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/119",
+    "title": "Issue #119",
+    "date": "June 13, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/118",
+    "title": "Issue #118",
+    "date": "June 6, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/117",
+    "title": "Issue #117",
+    "date": "May 30, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/116",
+    "title": "Issue #116",
+    "date": "May 23, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/115",
+    "title": "Issue #115",
+    "date": "May 16, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/114",
+    "title": "Issue #114",
+    "date": "May 9, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/113",
+    "title": "Issue #113",
+    "date": "May 2, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/112",
+    "title": "Issue #112",
+    "date": "April 25, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/111",
+    "title": "Issue #111",
+    "date": "April 18, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/110",
+    "title": "Issue #110",
+    "date": "April 11, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/109",
+    "title": "Issue #109",
+    "date": "April 4, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/108",
+    "title": "Issue #108",
+    "date": "March 28, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/107",
+    "title": "Issue #107",
+    "date": "March 21, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/106",
+    "title": "Issue #106",
+    "date": "March 14, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/105",
+    "title": "Issue #105",
+    "date": "March 7, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/104",
+    "title": "Issue #104",
+    "date": "Feb. 28, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/103",
+    "title": "Issue #103",
+    "date": "Feb. 21, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/102",
+    "title": "Issue #102",
+    "date": "Feb. 14, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/101",
+    "title": "Issue #101",
+    "date": "Feb. 7, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/100",
+    "title": "Issue #100",
+    "date": "Jan. 31, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/99",
+    "title": "Issue #99",
+    "date": "Jan. 17, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/98",
+    "title": "Issue #98",
+    "date": "Jan. 10, 2014"
+  },
+  {
+    "link": "http://pycoders.com/issues/97",
+    "title": "Issue #97",
+    "date": "Dec. 20, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/96",
+    "title": "Issue #96",
+    "date": "Dec. 13, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/95",
+    "title": "Issue #95",
+    "date": "Dec. 6, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/94",
+    "title": "Issue #94",
+    "date": "Nov. 29, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/93",
+    "title": "Issue #93",
+    "date": "Nov. 22, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/92",
+    "title": "Issue #92",
+    "date": "Nov. 15, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/91",
+    "title": "Issue #91",
+    "date": "Nov. 8, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/90",
+    "title": "Issue #90",
+    "date": "Nov. 1, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/89",
+    "title": "Issue #89",
+    "date": "Oct. 25, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/88",
+    "title": "Issue #88",
+    "date": "Oct. 18, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/87",
+    "title": "Issue #87",
+    "date": "Oct. 11, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/86",
+    "title": "Issue #86",
+    "date": "Oct. 4, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/85",
+    "title": "Issue #85",
+    "date": "Sept. 27, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/84",
+    "title": "Issue #84",
+    "date": "Sept. 20, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/83",
+    "title": "Issue #83",
+    "date": "Sept. 13, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/82",
+    "title": "Issue #82",
+    "date": "Sept. 6, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/81",
+    "title": "Issue #81",
+    "date": "Aug. 30, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/80",
+    "title": "Issue #80",
+    "date": "Aug. 23, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/79",
+    "title": "Issue #79",
+    "date": "Aug. 16, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/78",
+    "title": "Issue #78",
+    "date": "Aug. 9, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/77",
+    "title": "Issue #77",
+    "date": "Aug. 2, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/76",
+    "title": "Issue #76",
+    "date": "July 26, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/75",
+    "title": "Issue #75",
+    "date": "July 19, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/74",
+    "title": "Issue #74",
+    "date": "July 12, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/73",
+    "title": "Issue #73",
+    "date": "July 5, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/72",
+    "title": "Issue #72",
+    "date": "June 28, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/71",
+    "title": "Issue #71",
+    "date": "June 21, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/70",
+    "title": "Issue #70",
+    "date": "June 14, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/69",
+    "title": "Issue #69",
+    "date": "June 7, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/68",
+    "title": "Issue #68",
+    "date": "May 31, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/67",
+    "title": "Issue #67",
+    "date": "May 24, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/66",
+    "title": "Issue #66",
+    "date": "May 17, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/65",
+    "title": "Issue #65",
+    "date": "May 10, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/64",
+    "title": "Issue #64",
+    "date": "May 3, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/63",
+    "title": "Issue #63",
+    "date": "April 26, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/62",
+    "title": "Issue #62",
+    "date": "April 19, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/61",
+    "title": "Issue #61",
+    "date": "April 12, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/60",
+    "title": "Issue #60",
+    "date": "April 5, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/59",
+    "title": "Issue #59",
+    "date": "March 29, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/58",
+    "title": "Issue #58",
+    "date": "March 22, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/57",
+    "title": "Issue #57",
+    "date": "March 15, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/56",
+    "title": "Issue #56",
+    "date": "March 8, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/55",
+    "title": "Issue #55",
+    "date": "March 1, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/54",
+    "title": "Issue #54",
+    "date": "Feb. 22, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/53",
+    "title": "Issue #53",
+    "date": "Feb. 15, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/52",
+    "title": "Issue #52",
+    "date": "Feb. 8, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/51",
+    "title": "Issue #51",
+    "date": "Feb. 1, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/50",
+    "title": "Issue #50",
+    "date": "Jan. 25, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/49",
+    "title": "Issue #49",
+    "date": "Jan. 18, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/48",
+    "title": "Issue #48",
+    "date": "Jan. 11, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/47",
+    "title": "Issue #47",
+    "date": "Jan. 4, 2013"
+  },
+  {
+    "link": "http://pycoders.com/issues/46",
+    "title": "Issue #46",
+    "date": "Dec. 28, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/45",
+    "title": "Issue #45",
+    "date": "Dec. 21, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/44",
+    "title": "Issue #44",
+    "date": "Dec. 14, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/43",
+    "title": "Issue #43",
+    "date": "Dec. 7, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/42",
+    "title": "Issue #42",
+    "date": "Nov. 30, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/41",
+    "title": "Issue #41",
+    "date": "Nov. 23, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/40",
+    "title": "Issue #40",
+    "date": "Nov. 16, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/39",
+    "title": "Issue #39",
+    "date": "Nov. 9, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/38",
+    "title": "Issue #38",
+    "date": "Nov. 2, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/37",
+    "title": "Issue #37",
+    "date": "Oct. 26, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/36",
+    "title": "Issue #36",
+    "date": "Oct. 19, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/35",
+    "title": "Issue #35",
+    "date": "Oct. 12, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/34",
+    "title": "Issue #34",
+    "date": "Oct. 5, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/33",
+    "title": "Issue #33",
+    "date": "Sept. 28, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/32",
+    "title": "Issue #32",
+    "date": "Sept. 21, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/31",
+    "title": "Issue #31",
+    "date": "Sept. 14, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/30",
+    "title": "Issue #30",
+    "date": "Sept. 7, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/29",
+    "title": "Issue #29",
+    "date": "Aug. 31, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/28",
+    "title": "Issue #28",
+    "date": "Aug. 24, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/27",
+    "title": "Issue #27",
+    "date": "Aug. 17, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/26",
+    "title": "Issue #26",
+    "date": "Aug. 10, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/25",
+    "title": "Issue #25",
+    "date": "Aug. 3, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/24",
+    "title": "Issue #24",
+    "date": "July 27, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/23",
+    "title": "Issue #23",
+    "date": "July 20, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/22",
+    "title": "Issue #22",
+    "date": "July 13, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/21",
+    "title": "Issue #21",
+    "date": "July 6, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/20",
+    "title": "Issue #20",
+    "date": "June 29, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/19",
+    "title": "Issue #19",
+    "date": "June 22, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/18",
+    "title": "Issue #18",
+    "date": "June 15, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/17",
+    "title": "Issue #17",
+    "date": "June 8, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/16",
+    "title": "Issue #16",
+    "date": "June 1, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/15",
+    "title": "Issue #15",
+    "date": "May 25, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/14",
+    "title": "Issue #14",
+    "date": "May 18, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/13",
+    "title": "Issue #13",
+    "date": "May 11, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/12",
+    "title": "Issue #12",
+    "date": "May 4, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/11",
+    "title": "Issue #11",
+    "date": "April 27, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/10",
+    "title": "Issue #10",
+    "date": "April 20, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/9",
+    "title": "Issue #9",
+    "date": "April 13, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/8",
+    "title": "Issue #8",
+    "date": "April 6, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/7",
+    "title": "Issue #7",
+    "date": "March 30, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/6",
+    "title": "Issue #6",
+    "date": "March 23, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/5",
+    "title": "Issue #5",
+    "date": "March 16, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/4",
+    "title": "Issue #4",
+    "date": "March 9, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/3",
+    "title": "Issue #3",
+    "date": "March 2, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/2",
+    "title": "Issue #2",
+    "date": "Feb. 24, 2012"
+  },
+  {
+    "link": "http://pycoders.com/issues/1",
+    "title": "Issue #1",
+    "date": "Feb. 17, 2012"
+  }
 ]
