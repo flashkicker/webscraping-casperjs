@@ -43,6 +43,9 @@ var processPage = function() {
 
     currentPage++;
 
+    // We use waitFor() to wait until the expression has been evaluated.
+    // Once the element has loaded, we call processPage().
+    // If the element does not load before the default timeout occurs, the script exits by calling terminate().
     this.thenClick("li.page.next a").then(function() {
         this.waitFor(function() {
             return currentPage === this.evaluate(getSelectedPage);
